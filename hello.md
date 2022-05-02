@@ -103,6 +103,20 @@ class HelloWorld
 * [] Task 3
 * [x] Task 4
 
+<!--Abrimos terminal
+git init 
+git status
+git add .
+git status
+git commit -m "markdown intro"
+git config --global user.email "lauraromerogarcia16@gmail.com"
+git config --global user.name "Laura.R"   
+git commit -m "markdown intro"
+
+ahora de git copiamos : git remote add origin https://github.com/lauraR16/Markdown_Test.git
+
+
+-->
 
 
 
