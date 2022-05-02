@@ -117,7 +117,8 @@ ahora de git copiamos : git remote add origin https://github.com/lauraR16/Markdo
 
 
 -->
-
+<!--we can use emojis-->
+:smile:
 
 
 
